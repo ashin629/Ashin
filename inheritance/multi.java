@@ -26,6 +26,3 @@ public class multi {
             display();;
         }
     }
-
-
-    
