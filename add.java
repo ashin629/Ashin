@@ -20,4 +20,24 @@ public class add {
         System.out.println("the addition is" +sum);    
     
     }
-}          
+}
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+

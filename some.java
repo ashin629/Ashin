@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class add {
+public class demo {
     public static void main(String[] args)
     {
         int i=0;
@@ -20,4 +20,15 @@ public class add {
         System.out.println("the addition is" +sum);    
     
     }
-}          
+}
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            

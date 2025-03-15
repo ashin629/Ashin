@@ -9,4 +9,4 @@ public class file {
     System.out.println("the sum of two numbers:"+c);
    }
     
-}cd
+}
